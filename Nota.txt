@@ -1,0 +1,9 @@
+Planteamiento del problema:
+En la actualidad, la mayoría de los usuarios utilizan
+contraseñas débiles, predecibles o repetidas en múltiples 
+plataformas (como "123456" o nombres de mascotas). Esto 
+los hace vulnerables a ataques de ciberdelincuencia. La 
+falta de una herramienta sencilla que genere y gestione 
+criterios de aleatoriedad impide que las personas mantengan 
+mínimos lienamientos de seguridad digital.
+
