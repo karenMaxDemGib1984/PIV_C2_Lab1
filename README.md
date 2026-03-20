@@ -76,8 +76,11 @@ La validación detecta ese estado inválido y asigna un conjunto de caracteres p
 
 También existe validación implícita en el slider con los atributos min="8" y max="64", que impiden que el usuario ingrese una longitud fuera del rango permitido.
 
+Validar es importante porque protege tanto la experiencia del usuario como la integridad del sistema: sin validación, un estado vacío provocaría que generate() 
+entrara en un bucle sin caracteres válidos, generando una contraseña vacía o lanzando un error en consola que rompería la interfaz.
+<img width="925" height="2152" alt="image" src="https://github.com/user-attachments/assets/a494108d-94ad-4aaa-9c42-3b8ec3305ed5" />
+
 Yolanda Isabel Marroquin Ulloa SMSS047424
 Karen Esmeralda Portillo Portillo SMSS202223
 
-Validar es importante porque protege tanto la experiencia del usuario como la integridad del sistema: sin validación, un estado vacío provocaría que generate() entrara en un bucle sin caracteres válidos, generando una contraseña vacía o lanzando un error en consola que rompería la interfaz.
-<img width="925" height="2152" alt="image" src="https://github.com/user-attachments/assets/a494108d-94ad-4aaa-9c42-3b8ec3305ed5" />
+
